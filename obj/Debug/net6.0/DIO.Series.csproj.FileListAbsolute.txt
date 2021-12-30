@@ -1,0 +1,16 @@
+C:\Workspaces\ws-dio\CRUD-Project\DIO.Series\bin\Debug\net6.0\DIO.Series.exe
+C:\Workspaces\ws-dio\CRUD-Project\DIO.Series\bin\Debug\net6.0\DIO.Series.deps.json
+C:\Workspaces\ws-dio\CRUD-Project\DIO.Series\bin\Debug\net6.0\DIO.Series.runtimeconfig.json
+C:\Workspaces\ws-dio\CRUD-Project\DIO.Series\bin\Debug\net6.0\DIO.Series.dll
+C:\Workspaces\ws-dio\CRUD-Project\DIO.Series\bin\Debug\net6.0\DIO.Series.pdb
+C:\Workspaces\ws-dio\CRUD-Project\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.AssemblyReference.cache
+C:\Workspaces\ws-dio\CRUD-Project\DIO.Series\obj\Debug\net6.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspaces\ws-dio\CRUD-Project\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Workspaces\ws-dio\CRUD-Project\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
+C:\Workspaces\ws-dio\CRUD-Project\DIO.Series\obj\Debug\net6.0\DIO.Series.ImplicitNamespaceImports.cs
+C:\Workspaces\ws-dio\CRUD-Project\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Workspaces\ws-dio\CRUD-Project\DIO.Series\obj\Debug\net6.0\DIO.Series.dll
+C:\Workspaces\ws-dio\CRUD-Project\DIO.Series\obj\Debug\net6.0\refint\DIO.Series.dll
+C:\Workspaces\ws-dio\CRUD-Project\DIO.Series\obj\Debug\net6.0\DIO.Series.pdb
+C:\Workspaces\ws-dio\CRUD-Project\DIO.Series\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache
+C:\Workspaces\ws-dio\CRUD-Project\DIO.Series\obj\Debug\net6.0\ref\DIO.Series.dll
